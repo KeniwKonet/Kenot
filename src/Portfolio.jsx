@@ -39,10 +39,10 @@ const AVATAR_SRC = "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAAAAAAD/2wBDAAUDB
 const ROLES = ["Website Developer", "Software Engineer", "Brand & Product Designer", "Tech Community Builder"];
 
 const METRICS = [
-  { value: 15, suffix: "+", label: "Websites & Platforms Built", icon: "⬡" },
-  { value: 5, suffix: "+", label: "Organizations & NGOs Served", icon: "◎" },
+  { value: 35, suffix: "+", label: "Websites & Platforms Built", icon: "⬡" },
+  { value: 10, suffix: "+", label: "Organizations & NGOs Served", icon: "◎" },
   { value: 3, suffix: "", label: "Tech Communities Founded", icon: "△" },
-  { value: 10, suffix: "+", label: "Tech Events Organized", icon: "◇" },
+  { value: 8, suffix: "+", label: "Tech Events Organized", icon: "◇" },
 ];
 
 const PROJECTS = [
@@ -56,9 +56,9 @@ const PROJECTS = [
 const FEATURED_PROJECTS = [
   { title: "Maschool Tech", tag: "EdTech Platform", url: "https://maschool.vercel.app/", color: "#6366F1" },
   { title: "Foodcard Portal", tag: "Enterprise SaaS", url: "https://www.foodcardportal.com/", color: "#F59E0B" },
-  { title: "African Continental Intertrade", tag: "Corporate", url: "https://www.africancontinentalintertrade.org/", color: "#10B981" },
+  { title: "Re-orientation Advocacy of Nigeria", tag: "Corporate", url: "https://www.ran.ng/", color: "#10B981" },
   { title: "HSEF Global", tag: "NGO Platform", url: "https://hsefglobal.org", color: "#EC4899" },
-  { title: "Motaf Engineering", tag: "Engineering Firm", url: "https://motafengineering.org", color: "#8B5CF6" },
+  { title: "Motaf Engineering", tag: "Engineering Firm", url: "https://motafengineering.vercel.app", color: "#8B5CF6" },
 ];
 
 const EXPERIENCE = {
