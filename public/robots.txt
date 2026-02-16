@@ -1,0 +1,8 @@
+# Kenneth Taiwo Portfolio
+# https://kennethtaiwo.dev
+
+User-agent: *
+Allow: /
+
+# Sitemap — UPDATE domain to your actual deployed URL
+Sitemap: https://kennethtaiwo.dev/sitemap.xml
