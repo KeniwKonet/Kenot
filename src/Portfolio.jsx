@@ -56,9 +56,9 @@ const PROJECTS = [
 const FEATURED_PROJECTS = [
   { title: "Maschool Tech", tag: "EdTech Platform", url: "https://maschool.vercel.app/", color: "#6366F1" },
   { title: "Foodcard Portal", tag: "Enterprise SaaS", url: "https://www.foodcardportal.com/", color: "#F59E0B" },
-  { title: "African Continental Intertrade", tag: "Corporate", url: "https://www.africancontinentalintertrade.org/", color: "#10B981" },
+  { title: "Re-orientation Advocacy of Nigeria", tag: "Corporate", url: "https://www.ran.ng/", color: "#10B981" },
   { title: "HSEF Global", tag: "NGO Platform", url: "https://hsefglobal.org", color: "#EC4899" },
-  { title: "Motaf Engineering", tag: "Engineering Firm", url: "https://motafengineering.org", color: "#8B5CF6" },
+  { title: "Motaf Engineering", tag: "Engineering Firm", url: "https://motafengineering.vercel.app/", color: "#8B5CF6" },
 ];
 
 const EXPERIENCE = {
@@ -482,9 +482,9 @@ function Nav({ active, scrollTo }) {
   const [mobileOpen, setMobileOpen] = useState(false);
 
   const socials = [
-    { type: "github", url: "https://github.com/kennethtaiwo" },
-    { type: "linkedin", url: "https://linkedin.com/in/kennethtaiwo" },
-    { type: "twitter", url: "https://twitter.com/kennethtaiwo" },
+    { type: "github", url: "https://github.com/KeniwKonet" },
+    { type: "linkedin", url: "https://linkedin.com/in/kenneth-taiwo-812b1a248?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" },
+    { type: "facebook", url: "https://twitter.com/kenneth.taiwo.3" },
   ];
 
   return (
@@ -1302,9 +1302,9 @@ function Contact() {
             <RevealBlock delay={0.3}>
               <div style={{ display: "flex", flexDirection: "column", gap: "16px" }}>
                 {[
-                  { label: "Email", value: "hello@kennethtaiwo.dev", icon: "✉" },
-                  { label: "LinkedIn", value: "linkedin.com/in/kennethtaiwo", icon: "⬡" },
-                  { label: "WhatsApp", value: "Available on request", icon: "◎" },
+                  { label: "Email", value: "kennetholajidetaiwo@gmail.com", icon: "✉" },
+                  { label: "LinkedIn", value: "linkedin.com/in/kenneth-taiwo-812b1a248?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app", icon: "⬡" },
+                  { label: "WhatsApp", value: "+2349024509735", icon: "◎" },
                 ].map((c) => (
                   <a key={c.label} data-h href="#" className="contact-link" style={{
                     display: "flex", alignItems: "center", gap: "16px",
@@ -1374,9 +1374,9 @@ function Contact() {
 
 function Footer() {
   const socials = [
-    { type: "github", url: "https://github.com/kennethtaiwo", label: "GitHub" },
-    { type: "linkedin", url: "https://linkedin.com/in/kennethtaiwo", label: "LinkedIn" },
-    { type: "twitter", url: "https://twitter.com/kennethtaiwo", label: "Twitter" },
+    { type: "github", url: "https://github.com/KeniwKonet", label: "GitHub" },
+    { type: "linkedin", url: "https://linkedin.com/in/kenneth-taiwo-812b1a248?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app", label: "LinkedIn" },
+    { type: "facebook", url: "https://facebook.com/kenneth.taiwo.3", label: "Facebook" },
   ];
   return (
     <footer style={{ padding: "40px clamp(24px, 6vw, 100px)", borderTop: `1px solid ${T.border}`, display: "flex", justifyContent: "space-between", alignItems: "center", flexWrap: "wrap", gap: "16px" }}>
