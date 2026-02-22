@@ -39,8 +39,8 @@ const AVATAR_SRC = "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAAAAAAD/2wBDAAUDB
 const ROLES = ["Website Developer", "Software Engineer", "Brand & Product Designer", "Tech Community Builder"];
 
 const METRICS = [
-  { value: 35, suffix: "+", label: "Websites & Platforms Built", icon: "⬡" },
-  { value: 10, suffix: "+", label: "Organizations & NGOs Served", icon: "◎" },
+  { value: 67, suffix: "+", label: "Websites & Platforms Built", icon: "⬡" },
+  { value: 39, suffix: "+", label: "Organizations & NGOs Served", icon: "◎" },
   { value: 3, suffix: "", label: "Tech Communities Founded", icon: "△" },
   { value: 8, suffix: "+", label: "Tech Events Organized", icon: "◇" },
 ];
