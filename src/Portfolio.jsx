@@ -54,7 +54,7 @@ const PROJECTS = [
 ];
 
 const FEATURED_PROJECTS = [
-  { title: "Maschool Tech", tag: "EdTech Platform", url: "https://maschool.vercel.app/", color: "#6366F1" },
+  { title: "Fact Check AI", tag: "AI AGENT", url: "https://factcheckai-rust.vercel.app/", color: "#6366F1" },
   { title: "Foodcard Portal", tag: "Enterprise SaaS", url: "https://www.foodcardportal.com/", color: "#F59E0B" },
   { title: "Re-orientation Advocacy of Nigeria", tag: "Corporate", url: "https://www.ran.ng/", color: "#10B981" },
   { title: "HSEF Global", tag: "NGO Platform", url: "https://hsefglobal.org", color: "#EC4899" },
